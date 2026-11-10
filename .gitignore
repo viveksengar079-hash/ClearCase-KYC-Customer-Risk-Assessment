@@ -1,0 +1,36 @@
+
+# MySQL credentials and configuration
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook temporary files
+.ipynb_checkpoints/
+
+# VS Code personal workspace settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Personal interview preparation
+interview/
+interview_prep/
+interview_notes/
+*Interview_Guide*.pdf
+*Interview_Revision*.pdf
+
+# Windows temporary files
+Thumbs.db
+desktop.ini

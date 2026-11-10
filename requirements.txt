@@ -1,0 +1,12 @@
+
+# ClearCase KYC - Core Dependencies
+
+streamlit==1.67.0
+pandas==2.3.3
+numpy==2.5.4
+mysql-connector-python==26.10.0
+SQLAlchemy==2.1.8
+python-dotenv==1.2.4
+
+# VS Code Jupyter Notebook
+ipykernel==7.4.0
